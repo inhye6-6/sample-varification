@@ -157,7 +157,7 @@ img6_embedding = model.predict(img6)
 #### Distance function
 
 cosine = 0.40 ,  euclidean = 10 , euclidean_l2 = 0.80 <br>
-Use cosine 사용
+cosine 사용
 
 
 ```python
