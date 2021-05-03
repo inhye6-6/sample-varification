@@ -80,7 +80,8 @@ plt.imshow(Image.open(img3_path))
 
 
     
-![png](output_10_1.png)
+![output_10_1](https://user-images.githubusercontent.com/80514503/116943414-83c5d700-acae-11eb-8790-cb346ef4b117.png)
+
     
 
 
@@ -112,7 +113,8 @@ plt.imshow(Image.open(img6_path))
 
 
     
-![png](output_12_1.png)
+![png](output_12_1.png)![output_12_1](https://user-images.githubusercontent.com/80514503/116943433-8d4f3f00-acae-11eb-9356-1126b2a2124e.png)
+
     
 
 
