@@ -113,7 +113,7 @@ plt.imshow(Image.open(img6_path))
 
 
     
-![png](output_12_1.png)![output_12_1](https://user-images.githubusercontent.com/80514503/116943433-8d4f3f00-acae-11eb-9356-1126b2a2124e.png)
+![output_12_1](https://user-images.githubusercontent.com/80514503/116943433-8d4f3f00-acae-11eb-9356-1126b2a2124e.png)
 
     
 
@@ -237,7 +237,7 @@ verify(img4, img6)
 
 
     
-![png](output_23_0.png)
+![output_23_0](https://user-images.githubusercontent.com/80514503/116943552-c7204580-acae-11eb-81bc-fa25397e115b.png)
     
 
 
@@ -247,7 +247,7 @@ verify(img4, img6)
 
 
     
-![png](output_23_2.png)
+![output_23_2](https://user-images.githubusercontent.com/80514503/116943565-cf788080-acae-11eb-80a5-8d0aba358c20.png)
     
 
 
@@ -257,7 +257,7 @@ verify(img4, img6)
 
 
     
-![png](output_23_4.png)
+![output_23_4](https://user-images.githubusercontent.com/80514503/116943575-d43d3480-acae-11eb-92c6-5302b446c421.png)
     
 
 
@@ -267,7 +267,7 @@ verify(img4, img6)
 
 
     
-![png](output_23_6.png)
+![output_23_6](https://user-images.githubusercontent.com/80514503/116943585-d901e880-acae-11eb-96fc-f223552262e8.png)
     
 
 
@@ -277,7 +277,7 @@ verify(img4, img6)
 
 
     
-![png](output_23_8.png)
+![output_23_8](https://user-images.githubusercontent.com/80514503/116943594-dc956f80-acae-11eb-94a9-780b3a90727b.png)
     
 
 
@@ -287,7 +287,7 @@ verify(img4, img6)
 
 
     
-![png](output_23_10.png)
+![output_23_10](https://user-images.githubusercontent.com/80514503/116943598-df906000-acae-11eb-86bb-7c93d56770b3.png)
     
 
 
@@ -312,7 +312,7 @@ verify(img3, img5)
 
 
     
-![png](output_25_0.png)
+![output_25_0](https://user-images.githubusercontent.com/80514503/116943607-e4edaa80-acae-11eb-959e-eda30b214455.png)
     
 
 
@@ -322,7 +322,7 @@ verify(img3, img5)
 
 
     
-![png](output_25_2.png)
+![output_25_2](https://user-images.githubusercontent.com/80514503/116943611-e8813180-acae-11eb-950f-f99c198abd49.png)
     
 
 
@@ -332,7 +332,7 @@ verify(img3, img5)
 
 
     
-![png](output_25_4.png)
+![output_25_4](https://user-images.githubusercontent.com/80514503/116943619-eb7c2200-acae-11eb-8bee-443acfac7ead.png)
     
 
 
@@ -342,7 +342,7 @@ verify(img3, img5)
 
 
     
-![png](output_25_6.png)
+![output_25_6](https://user-images.githubusercontent.com/80514503/116943649-f6cf4d80-acae-11eb-93fb-c12901177a2a.png)
     
 
 
@@ -352,7 +352,7 @@ verify(img3, img5)
 
 
     
-![png](output_25_8.png)
+![output_25_8](https://user-images.githubusercontent.com/80514503/116943660-fc2c9800-acae-11eb-8f9a-68c6a7490f54.png)
     
 
 
@@ -362,7 +362,7 @@ verify(img3, img5)
 
 
     
-![png](output_25_10.png)
+![output_25_10](https://user-images.githubusercontent.com/80514503/116943673-0189e280-acaf-11eb-9e9a-f76104bbfb24.png)
     
 
 
@@ -372,7 +372,7 @@ verify(img3, img5)
 
 
     
-![png](output_25_12.png)
+![output_25_12](https://user-images.githubusercontent.com/80514503/116943687-051d6980-acaf-11eb-8ba0-d10449230c45.png)
     
 
 
@@ -382,7 +382,7 @@ verify(img3, img5)
 
 
     
-![png](output_25_14.png)
+![output_25_14](https://user-images.githubusercontent.com/80514503/116943691-09e21d80-acaf-11eb-8bcb-dde0b6cb6b36.png)
     
 
 
@@ -392,7 +392,7 @@ verify(img3, img5)
 
 
     
-![png](output_25_16.png)
+![output_25_16](https://user-images.githubusercontent.com/80514503/116943701-0f3f6800-acaf-11eb-82cc-c8f828aeb210.png)
     
 
 
@@ -400,12 +400,12 @@ verify(img3, img5)
     Distance =  0.62
     
 
-## 고려사항 
+# 고려사항 
 
 1. 존재하는 가중치들을 사용할 것인지, data를 구해서 학습을 다시 시킬 것인지 ***
 2. openCV를 backend detector로 사용할지 다른 backend detector를 사용할지 고민
 
-## 계획
+# 계획
 
 1. database에 임베딩 저장 구현
 2. web cam과 face net 연결
