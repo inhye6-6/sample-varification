@@ -403,8 +403,7 @@ verify(img3, img5)
 # 고려사항 
 
 1. 존재하는 가중치들을 사용할 것인지, data를 구해서 학습을 다시 시킬 것인지 ***
-2. openCV를 backend detector로 사용할지 다른 backend detector를 사용할지 고민 <br>
-3. 여기선 align을 할 때 opencv의 eye detector를 사용하는데 성능 문제가 있을 것 같음 > align 방법 모색......... 
+2. openCV를 backend detector로 사용할지 다른 backend detector를 사용할지 고민 <br> 여기선 align을 할 때 opencv의 eye detector를 사용하는데 성능 문제가 있을 것 같음 
 
 # 계획
 
